@@ -1,0 +1,37 @@
+body{
+    margin: auto 0;
+}
+
+table{
+    border-spacing: 0px;
+    margin: 0 auto;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+tr{
+    width: 225px;
+    height: 75px;
+    margin: auto 0;
+}
+
+
+td{
+    width: 75px;
+    height: 75px;
+    padding: 0px;
+}
+
+
+.m_tb{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.m_lr{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
